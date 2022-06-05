@@ -12,6 +12,9 @@ The purpose of this project was to gain experince breaking up projects into smal
 
 From doing this project I learned how to create and use code modules with objects. I also learned how to use server side code with an actual webpage.
 
+<img width="317" alt="Screen Shot 2022-06-04 at 6 38 07 PM" src="https://user-images.githubusercontent.com/105889862/172033511-e9128517-c0be-46dd-b1a7-6b0ecabca6f2.png">
+
+
 ```
 const fs = require('fs');
 const {coinCount} = require('./p3-module.js');
