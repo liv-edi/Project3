@@ -1,5 +1,7 @@
 ## Project 3
 
+[Home](https://liv-edi.github.io/cit281/)
+
 In this project we cerated a coinage code module that could calculate the total value of a coin object. We then updated the server code file to be a Node.js web server using Fastify. The final server displayed a web page with web links to test the coinage code.
 
 Technologies used for this project:
